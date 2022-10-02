@@ -1,3 +1,4 @@
 node_modules/
-.txt
-.new
+*.txt
+*.new
+*.pem
